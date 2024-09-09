@@ -1,4 +1,4 @@
-# ## 👥 A Equipe Code Don´t Blow
+## 👥 A Equipe Code Don´t Blow
 
 
 | Integrante | 1° SEM | 2° SEM | GitHub | 
