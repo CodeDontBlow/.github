@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<!--<div style="display: flex; justify-content: space-between; align-items: center;">
   <span>
     <a href="https://git.io/typing-svg">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczM_sdXQctMBKJ-lMinmbrVuEJC-I_hgdWNRH0HmzJM-fuUdQZUtATBiIV8xZap0A019jIcoKLf05aBEB8FK4kch6Ce699EXWBkT-qbr8XiHQDrFVXi1-ecPWxvLRHYhnW2GUgoHeTeKfx1E1xJkGLzp_w=w500-h500-s-no" style="width: 40%;" />
@@ -8,6 +8,7 @@
     <img src="https://64.media.tumblr.com/96ef5e97b655cc4b8c128abdab099e33/tumblr_mv8yr7nOhT1rhg4x8o1_500.gif" style="width: 55%;" />
   </span>
 </div>
+-->
 
 
 
@@ -34,7 +35,7 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 ## Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,python,flask,java,aws,mysql,idea&perline=6"style="width: 30%; />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,python,flask,java,aws,mysql,idea&perline=6"style="width: 40%;/>
 </div>
 
 ---
