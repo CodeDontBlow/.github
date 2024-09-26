@@ -27,7 +27,7 @@
 
 A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas individualidades técnicas!
 - **Desenvolvimento de Produtos:** 
-  - 🔨 Foco na criação e manutenção de soluções de software inovadoras.
+  - 🔨 Foco na criação e manutenção de soluções de software inovadores.
   
 - **Suporte ao Cliente:** 
   - 📩 Oferece assistência técnica e garante uma experiência positiva aos usuários.
@@ -41,13 +41,13 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 ---
 
 ## Projetos em Andamento e concluídos!
-> ♻️ Automatizador de leitura de documentos usando inteligencia artificial opensource;
+> ♻️ Automatizador de leitura de documentos usando inteligência artificial open source;
 > 
-> ✔️ Plataforma web de ensino sobre a metodologia agil Scrum; 
+> ✔️ Plataforma web de ensino sobre a metodologia ágil Scrum; 
 
 ---
 
-**CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas esplodirem! 🎉**
+**CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas explodirem! 🎉**
 
 ---
 
