@@ -46,22 +46,7 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
  > ✔️ Plataforma web de ensino sobre a metodologia agil Scrum; 
 
 
-<!--
-## Junte-se a Nós
-
-Se você está pronto para cortar o pavio e transformar desafios em soluções, entre em contato!
-
-**Email:** [contato@codedontblow.com](mailto:contato@codedontblow.com)  
-**Website:** [www.codedontblow.com](http://www.codedontblow.com)  
- **Redes Sociais:** 
-- [LinkedIn](#) 
-- [Twitter](#) 
-- [Facebook](#)
----
--->
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas esplodirem! 🎉**
+**CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas esplodirem! 🎉**
 
 ---
 
