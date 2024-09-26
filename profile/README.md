@@ -35,7 +35,7 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 ## Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,python,flask,java,aws,mysql,idea&perline=6"style="width: 40%;/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,python,flask,java,aws,mysql,idea&perline=6" style="width: 40%;" />
 </div>
 
 ---
@@ -45,6 +45,7 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 > 
 > ✔️ Plataforma web de ensino sobre a metodologia agil Scrum; 
 
+---
 
 **CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas esplodirem! 🎉**
 
