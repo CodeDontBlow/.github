@@ -35,15 +35,17 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 ## Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,python,flask,java,aws,mysql,idea&perline=6" style="width: 40%;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,python,flask,java,aws,mysql,idea,ts&perline=6" style="width: 40%;" />
 </div>
 
 ---
 
 ## Projetos em Andamento e concluídos!
-> ♻️ Automatizador de leitura de documentos usando inteligência artificial open source;
+> ♻️  Acompanhamento dos Resultados de Importação e Exportação dos Estados
+>
+> ✔️ Automatizador de leitura de documentos usando inteligência artificial open source;
 > 
-> ✔️ Plataforma web de ensino sobre a metodologia ágil Scrum; 
+> ✔️ Plataforma web de ensino sobre a metodologia ágil Scrum;
 
 ---
 
@@ -52,15 +54,16 @@ A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas in
 ---
 
 
-| Integrante | 1° SEM | 2° SEM | GitHub | 
-|---|---|---|---|
-| Ygor Pereira | Dev Team | **Product Owner** | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YgorPereira) | 
-| Leonardo Cristiano | **Product Owner** | **Scrum Master** | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza) | 
-| Luana Souza | **Scrum Master** | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luanaapms) | 
-| Mariana Lins | Dev Team | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariana-lins) | 
-| Matheus di Sabatino | Dev Team | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Omathzao) |
-| Rafael Gonçalves | Dev Team | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/EstupendoG) 
-| Vanessa da Costa | Dev Team | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi) | 
-| Henrique Tadeu | Dev Team | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/henrySilverIX) | 
+| Integrante | 1° SEM | 2° SEM | 3° SEM | GitHub | 
+|---|---|---|---|---|
+| Ygor Pereira | Dev Team | **Product Owner** |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YgorPereira) | 
+| Leonardo Cristiano | **Product Owner** | **Scrum Master** |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza) | 
+| Luana Souza | **Scrum Master** | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luanaapms) | 
+| Mariana Lins | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariana-lins) | 
+| Matheus di Sabatino | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Omathzao) |
+| Rafael Gonçalves | Dev Team | Dev Team |**Product Owner**| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/EstupendoG) 
+| Vanessa da Costa | Dev Team | Dev Team |**Scrum Master**| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi) | 
+| Henrique Tadeu | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/henrySilverIX) | 
+| Victor Godoy | ****** |******|Dev Team|  [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorrgodoy) |
 
 
