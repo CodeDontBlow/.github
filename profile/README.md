@@ -25,7 +25,7 @@
 
 ## 🎈 Estrutura Organizacional
 
-A CodeDon'tBlow é composta por uma equipe de 8 integrantes, cada um com suas individualidades técnicas!
+A CodeDon'tBlow é composta por uma equipe de 9 integrantes, cada um com suas individualidades técnicas!
 - **Desenvolvimento de Produtos:** 
   - 🔨 Foco na criação e manutenção de soluções de software inovadores.
   
