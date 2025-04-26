@@ -1,29 +1,14 @@
-<!--<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>
-    <a href="https://git.io/typing-svg">
-      <img src="https://lh3.googleusercontent.com/pw/AP1GczM_sdXQctMBKJ-lMinmbrVuEJC-I_hgdWNRH0HmzJM-fuUdQZUtATBiIV8xZap0A019jIcoKLf05aBEB8FK4kch6Ce699EXWBkT-qbr8XiHQDrFVXi1-ecPWxvLRHYhnW2GUgoHeTeKfx1E1xJkGLzp_w=w500-h500-s-no" style="width: 40%;" />
-    </a>
-  </span>
-  <span>
-    <img src="https://64.media.tumblr.com/96ef5e97b655cc4b8c128abdab099e33/tumblr_mv8yr7nOhT1rhg4x8o1_500.gif" style="width: 55%;" />
-  </span>
-</div>
--->
-
-
-
 
 ---
 
-> 👔 **Valores:** 
+> 👔 **Valores:**
+> - **Inovação:** 💡 Buscar continuamente novas abordagens e tecnologias.
 > - **Coragem:** 💪 Tomar decisões audaciosas e assumir riscos.
 > - **Foco no Cliente:** 👥 Colocar os clientes em primeiro lugar e ouvir suas necessidades.
-> - **Inovação:** 💡 Buscar continuamente novas abordagens e tecnologias.
-> - **Simplicidade:** ✨ Facilitar processos e produtos para melhor usabilidade.
-
+> - **Colaboração:** 🤝 Trabalhar em equipe, valorizando diferentes perspectivas para alcançar melhores resultados.
 ---
-
-## 🎈 Estrutura Organizacional
+<!--
+### Estrutura Organizacional
 
 A CodeDon'tBlow é composta por uma equipe de 9 integrantes, cada um com suas individualidades técnicas!
 - **Desenvolvimento de Produtos:** 
@@ -32,38 +17,39 @@ A CodeDon'tBlow é composta por uma equipe de 9 integrantes, cada um com suas in
 - **Suporte ao Cliente:** 
   - 📩 Oferece assistência técnica e garante uma experiência positiva aos usuários.
 
-## Tecnologias Utilizadas
+---
+-->
+
+### 🛠️Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,python,flask,java,aws,mysql,idea,ts&perline=6" style="width: 40%;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,flask,java,aws,mysql,python,nodejs&perline=6" style="width: 40%;" />
 </div>
 
 ---
 
-## Projetos em Andamento e concluídos!
-> ♻️  Acompanhamento dos Resultados de Importação e Exportação dos Estados
->
-> ✔️ Automatizador de leitura de documentos usando inteligência artificial open source;
-> 
-> ✔️ Plataforma web de ensino sobre a metodologia ágil Scrum;
+### 🗂️Projetos de API
+
+| Semestre | Projeto | Descrição | Parceiros |
+|---|----|---|---|
+| 1° SEM | [Scrum Tutor](https://github.com/CodeDontBlow/Scrum-Tutor) | WebSite interativo e funcional sobre a Metodologia Ágil Scrum. | FATEC |
+| 2° SEM | [DocEye](https://github.com/CodeDontBlow/DocEye) | Software de extração de informações para automatizar e otimizar processos seletivos. | FATEC |
+| 3° SEM | [PontoLog](https://github.com/CodeDontBlow/PontoLog) | Plataforma de dados logísticos sobre o desempenho dos Estados Brasileiros no comércio exterior. | FATEC |
 
 ---
 
-**CodeDon'tBlow - Onde cortamos o pavio, antes dos problemas explodirem! 🎉**
+### **Code Don't Blow - Onde cortamos o pavio, antes dos problemas explodirem! 💣**
 
----
-
-
-| Integrante | 1° SEM | 2° SEM | 3° SEM | GitHub | 
-|---|---|---|---|---|
-| Ygor Pereira | Dev Team | **Product Owner** |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YgorPereira) | 
-| Leonardo Cristiano | **Product Owner** | **Scrum Master** |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza) | 
-| Luana Souza | **Scrum Master** | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luanaapms) | 
-| Mariana Lins | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariana-lins) | 
-| Matheus di Sabatino | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Omathzao) |
-| Rafael Gonçalves | Dev Team | Dev Team |**Product Owner**| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/EstupendoG) 
-| Vanessa da Costa | Dev Team | Dev Team |**Scrum Master**| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi) | 
-| Henrique Tadeu | Dev Team | Dev Team |Dev Team| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/henrySilverIX) | 
-| Victor Godoy | ****** |******|Dev Team|  [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorrgodoy) |
+| Integrantes | Perfil do GitHub | 
+|---|---|
+| Henrique Tadeu da Silva |[![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/henrySilverIX) |
+| Leonardo Cristiano |  [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza) | 
+| Luana Moraes Souza | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luanaapms) | 
+| Mariana Cavalcante Lins | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariana-lins) | 
+| Matheus di Sabatino | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Omathzao) |
+| Rafael Gonçalves Pinto | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/EstupendoG) 
+| Vanessa da Costa Rodrigues | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi) | 
+| Victor Herculano Godoy | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorrgodoy) |
+| Ygor Ruan Pereira | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YgorPereira) | 
 
 
