@@ -16,6 +16,7 @@
 | 2° SEM | [DocEye](https://github.com/CodeDontBlow/DocEye) | Software de extração de informações para automatizar e otimizar processos seletivos. | FATEC |
 | 3° SEM | [PontoLog](https://github.com/CodeDontBlow/PontoLog) | Plataforma de dados logísticos sobre o desempenho dos Estados Brasileiros no comércio exterior. | FATEC |
 | 4° SEM | [Descriptum](https://github.com/CodeDontBlow/Tecsys-Descriptum) | Agente de Inteligência Artificial para instrução de Processo para Registro de Importação. | TECSYS |
+| 5° SEM | [Orbita](https://github.com/CodeDontBlow/pro4tech-Orbita) | Aplicação mobile para atendimento personalizado com triagem via URA e chat em tempo real | PRO4TECH |
 ---
 
 | Integrantes | Perfil do GitHub | 
